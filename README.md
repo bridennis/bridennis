@@ -7,8 +7,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bridennis&layout=compact)
 
-[![HitCount](http://hits.dwyl.com/bridennis/bridennis.svg)](http://hits.dwyl.com/bridennis/bridennis)
-
 <!---
 bridennis/bridennis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
