@@ -1,6 +1,6 @@
 #### Hello everyone 👋
 - I’m Dennis
-- 👀 I’m interested in web and mobile app development
+- 👀 I’m interested in web development
 - 📫 How to reach me: bri.dennis[at]gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=bridennis&show_icons=true&theme=tokyonight)
